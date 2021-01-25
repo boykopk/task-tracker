@@ -1,7 +1,7 @@
-# React Crash Course 2021 (Task Tracker App)
-This is the project from the YouTube crash course. It includes the react ui as well as JSON-server for our mock backend
+# React Task Tracker App
+This project includes the react ui as well as JSON-server for our mock backend
 
-Usage
+## Usage
 Install dependencies
 npm install
 Run React dev server (http://localhost:3000)
